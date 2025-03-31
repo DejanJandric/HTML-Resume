@@ -25,3 +25,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 For any questions or feedback, please get in touch with me at dejanjandric7@gmail.com.
+
+
+![Resume](https://github.com/user-attachments/assets/7f49e871-6094-473c-bc82-8d39731308c2)
